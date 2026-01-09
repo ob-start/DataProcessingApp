@@ -8,10 +8,17 @@
 无需安装 Python：所有依赖均已打包进 .exe 文件中
 # 功能完整说明：
 ✅ 支持手动输入数据或选择文件绘图；
+
 ✅ 支持识别极大值和极小值；
+
 ✅ 支持根据输入的阈值筛选极大值/极小值；
+
 ✅ 支持放大功能（鼠标左键拖动）；
+
 ✅ 支持重置视图；
+
 ✅ 支持导出图表为图片（PNG/JPG/SVG/PDF）；
+
 ✅ 支持导出数据到 Excel；
+
 <img width="953" height="479" alt="image" src="https://github.com/user-attachments/assets/30609e94-bd79-455b-8c24-3917cf574c80" />
